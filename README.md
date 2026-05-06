@@ -65,16 +65,6 @@ Algorithms · Artificial Intelligence · Machine Learning · Recommendation Syst
 
 ---
 
-### GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JamesQiu2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=JamesQiu2005&theme=github-dark&hide_border=true)
-
-</div>
-
----
 
 ### Contact
 
