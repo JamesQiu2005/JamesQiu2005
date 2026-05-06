@@ -25,7 +25,7 @@ Data Science undergraduate at NYU Shanghai, currently on study-away at NYU New Y
 **CASED — Multimodal Student Engagement Detection** &nbsp;·&nbsp; *ICMI 2026 Grand Challenge*
 Technical lead. Architecture decomposes classroom video spatially, fuses across modalities, and routes through shared regression / classification heads. Designed around what the data actually shows, not what prior papers assume.
 
-**Smart Cockpit Capstone — Agentic Automotive UI/UX**
+**Smart Cockpit MVP — AI-powered Automotive UI/UX**
 An agentic AI system for in-car interaction that adapts to driver state in real time. Prototyped in Assetto Corsa. A bridge from HCI research to applied human–machine interface design.
 
 **Glaucoma Meta-Analysis** &nbsp;·&nbsp; *Second-author publication*
