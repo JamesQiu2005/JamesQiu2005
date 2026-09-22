@@ -8,15 +8,13 @@
 
 ## Hanze Qiu （邱瀚泽）
 
-Data Science undergraduate at NYU Shanghai, currently on study-away at NYU New York. I work at the intersection of HCI, multimodal machine learning, and human–AI interaction — building systems that take human cognition seriously rather than around it. I also write long-form essays on education, subjectivity, and technology, in both English and Chinese. Applying to PhD / MS programs in this space.
+Data Science undergraduate at NYU Shanghai, currently on study-away at NYU New York. I work at the intersection of HCI, multimodal machine learning, and human–AI interaction — building systems that take human cognition seriously rather than around it. I also write long-form essays on education, subjectivity, and technology, in both English and Chinese. Applying to PhD / MS programs in this space. I also have extensive knowledge in product shipping, and photography.
 
 ---
 
 ### Currently
 
-- **CASED · ICMI 2026 Grand Challenge** — technical lead on a multimodal student-engagement detection system: spatial decomposition of video, multimodal fusion, shared regression / classification heads.
-- **Graduate applications** — PhD / MS, focused on human–AI interaction and multimodal ML.
-- **Essay trilogy, No. 2** — *Without cultivating creativity, humans would be the same as AI models.* In progress.
+SpektraLab: High-performance macOS native desktop film emulation app
 
 ---
 
@@ -25,14 +23,11 @@ Data Science undergraduate at NYU Shanghai, currently on study-away at NYU New Y
 **CASED — Multimodal Student Engagement Detection** &nbsp;·&nbsp; *ICMI 2026 Grand Challenge*
 Technical lead. Architecture decomposes classroom video spatially, fuses across modalities, and routes through shared regression / classification heads. Designed around what the data actually shows, not what prior papers assume.
 
-**Smart Cockpit MVP — AI-powered Automotive UI/UX**
-An agentic AI system for in-car interaction that adapts to driver state in real time. Prototyped in Assetto Corsa. A bridge from HCI research to applied human–machine interface design.
 
 **Glaucoma Meta-Analysis** &nbsp;·&nbsp; *Second-author publication*
 Data analysis for a clinical meta-analysis in the medical domain.
 
-**RAGFlow Analysis**
-System-level read of a production RAG framework — what it commits to, what it gives up, where the abstractions leak.
+
 
 ---
 
