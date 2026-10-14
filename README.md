@@ -19,15 +19,19 @@ A film and print simulator for macOS. The open-source spectral model it builds o
 - **1.13 s** per 45 MP render, against about 30 s for the reference implementation
 - **13.7 GB** peak memory at 102 MP, down from 27.4 GB in the first release
 - **561** tests, **30** RFCs and **15** releases in 21 days
-- **789** downloads on GitHub Releases (14 October 2026) and **1,000+** interactions on Xiaohongshu over the launch weekend
+- **792** downloads on GitHub Releases (14 October 2026) and **1,000+** interactions on Xiaohongshu over the launch weekend
 
-<a href="https://www.star-history.com/#JamesQiu2005/SpektraLab&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=JamesQiu2005/SpektraLab&type=Date&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=JamesQiu2005/SpektraLab&type=Date">
-    <img src="https://api.star-history.com/svg?repos=JamesQiu2005/SpektraLab&type=Date" width="100%" alt="Star history of JamesQiu2005/SpektraLab">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=JamesQiu2005/SpektraLab&type=Date&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=JamesQiu2005/SpektraLab&type=Date">
+  <img src="https://api.star-history.com/svg?repos=JamesQiu2005/SpektraLab&type=Date" width="100%" alt="Star history of JamesQiu2005/SpektraLab">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/release-downloads-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/release-downloads-light.svg">
+  <img src="assets/release-downloads-light.svg" width="100%" alt="Downloads of each SpektraLab release on GitHub, 0.3.1 to 1.3.3, with the running total; 1.3.3, the first notarised release, accounts for more than half">
+</picture>
 
 The film model, the 28 measured film and paper profiles and the enlarger LUTs come from Andrea Volpato's [spektrafilm](https://github.com/andreavolpato/spektrafilm) (GPLv3; profile data CC BY-SA 4.0). SpektraLab is its native C++ and Metal port and the app built around it.
 
